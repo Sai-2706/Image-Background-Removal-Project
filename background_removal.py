@@ -15,7 +15,7 @@ def remove_background(input_path, output_path):
 
 # Main function to run the background removal
 if __name__ == "__main__":
-    input_path = 'Sahith reddy.jpg'  # Path to input image
+    input_path = 'input_image.jpg'  # Path to input image
     output_path = 'output_image.png'  # Path to save output image
 
     remove_background(input_path, output_path)
