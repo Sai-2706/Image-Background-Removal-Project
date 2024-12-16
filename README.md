@@ -19,10 +19,10 @@ Required Python libraries:
 
 *Project Structure*
 Image-Background-Removal-Project/
-├── input_image.jpg          # Input image (replace with your image)
-├── output_image.png         # Output image (background removed)
-├── background_removal.py    # Python script for background removal
-└── README.md                # Project documentation
+├── input_image.jpg          # Input image (replace with your image)                                                                                                
+├── output_image.png         # Output image (background removed)                                                                                                    
+├── background_removal.py    # Python script for background removal                                                                                                 
+└── README.md                # Project documentation                                                                                                                
 
 *Usage*: 
 1. *Place the input image*:
